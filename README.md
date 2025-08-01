@@ -1,4 +1,4 @@
-<img scr="https://drive.google.com/file/d/1aXGqu0Ll8Ot592U9N5OnPrFZHA1op3_V/view?usp=sharing">
+<img scr="https://drive.google.com/file/d/1aXGqu0Ll8Ot592U9N5OnPrFZHA1op3_V/view?usp=sharing"/>
 <h1 align="center">Hollow 👋, I'm Md. Mafuzur Rahman</h1>
 <h3 align="center">Passionate Website Designer, Developer & WordPress Expert helping businesses, startups, and individuals build professional online presences that also perform perfectly. </h3>
 
