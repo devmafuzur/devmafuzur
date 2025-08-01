@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://i.ibb.co/SDFC2RLP/mafuz-IT.jpg)">
 <h1 align="center">Hello 👋, I'm Md. Mafuzur Rahman</h1>
 <h3 align="center">Passionate Website Designer, Developer & WordPress Expert helping businesses, startups, and individuals build professional online presences that also perform perfectly. </h3>
 
