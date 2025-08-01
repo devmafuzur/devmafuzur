@@ -1,9 +1,7 @@
-<h1 align="center">Hello 👋, I'm Md. Mafuzur Rahman</h1>
+<h1 align="center">Hollow 👋, I'm Md. Mafuzur Rahman</h1>
 <h3 align="center">Passionate Website Designer & Developer | WrodPress Expert | Beautiful Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmafuzur&label=Profile%20views&color=0e75b6&style=flat" alt="devmafuzur" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmafuzur" alt="devmafuzur" /></a> </p>
 
 - 🔭 I’m currently working on [Freelancer](https://www.freelancer.com/u/devmafuzur)
 
