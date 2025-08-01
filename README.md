@@ -1,5 +1,5 @@
 <h1 align="center">Hollow 👋, I'm Md. Mafuzur Rahman</h1>
-<h3 align="center">Passionate Website Designer & Developer | WrodPress Expert | Beautiful Design</h3>
+<h3 align="center">Passionate Website Designer, Developer & WordPress Expert helping businesses, startups, and individuals build professional online presences that also perform perfectly. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmafuzur&label=Profile%20views&color=0e75b6&style=flat" alt="devmafuzur" /> </p>
 
