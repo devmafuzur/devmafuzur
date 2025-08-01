@@ -1,5 +1,5 @@
-<img scr="https://drive.google.com/file/d/1aXGqu0Ll8Ot592U9N5OnPrFZHA1op3_V/view?usp=sharing"/>
-<h1 align="center">Hollow 👋, I'm Md. Mafuzur Rahman</h1>
+<img scr="[https://drive.google.com/file/d/1aXGqu0Ll8Ot592U9N5OnPrFZHA1op3_V/view?usp=sharing](https://i.ibb.co/SDFC2RLP/mafuz-IT.jpg)">
+<h1 align="center">Hello 👋, I'm Md. Mafuzur Rahman</h1>
 <h3 align="center">Passionate Website Designer, Developer & WordPress Expert helping businesses, startups, and individuals build professional online presences that also perform perfectly. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmafuzur&label=Profile%20views&color=0e75b6&style=flat" alt="devmafuzur" /> </p>
