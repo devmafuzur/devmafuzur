@@ -1,4 +1,4 @@
-<img style="width: 500px; height: 250px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ld2-jqasWZCNTmx0oWiYdrSz8XSpUzAeQQ&s">
+<img style="width: 500px; height: 250px;" src="https://media.licdn.com/dms/image/v2/D5616AQEUtkSufHoKCA/profile-displaybackgroundimage-shrink_350_1400/B56ZiA_dHFHUAc-/0/1754510776614?e=1757548800&v=beta&t=PTaWNesoKUxE87WRSpEr7Ea1BkGtjW_ydCUAToUOdrE">
 <h1 align="center">Hello 👋, I'm Md. Mafuzur Rahman</h1>
 <h3 align="center">Passionate Website Designer, Developer & WordPress Expert helping businesses, startups, and individuals build professional online presences that also perform perfectly. </h3>
 
