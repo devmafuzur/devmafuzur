@@ -1,4 +1,4 @@
-<img src="[[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://i.ibb.co/SDFC2RLP/mafuz-IT.jpg)](https://avatars.githubusercontent.com/u/223996001?v=4)](https://md-mafuzur-rahma.imgbb.com/)">
+<img style="width: 500px; height: 250px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ld2-jqasWZCNTmx0oWiYdrSz8XSpUzAeQQ&s">
 <h1 align="center">Hello 👋, I'm Md. Mafuzur Rahman</h1>
 <h3 align="center">Passionate Website Designer, Developer & WordPress Expert helping businesses, startups, and individuals build professional online presences that also perform perfectly. </h3>
 
